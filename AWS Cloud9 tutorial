@@ -3,3 +3,7 @@
 ************AWS CLOUD9**********
 The AWS Cloud9 IDE offers a rich code-editing experience with support for several programming languages and runtime debuggers, as well as a built-in terminal. 
 It contains a collection of tools that you use to code, build, run, test, and debug software, and helps you release software to the cloud.
+Following are the steps for Creating AWS EC2 and connecting it with AWS Cloud9 IDE and AWS S3.
+*Get Access Key and Secret Key*
+-Access key and secret key are used to authenticate requests you make to AWS.
+-After creating an AWS account from here, log in to AWS Management Console from here.
